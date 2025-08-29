@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# David Oprea's First CS193 Homework
+
+## List of Favorite Things About CS193
+
+- Learn about cool tools
+- Helpful for future careers
+- Is one of my easier classes
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
